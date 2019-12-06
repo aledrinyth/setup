@@ -1,1 +1,2 @@
+sudo unattended-upgrade -d
 wget "https://launcher.mojang.com/download/Minecraft.deb" #Minecraft deb/ubuntu download
